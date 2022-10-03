@@ -1,4 +1,3 @@
-# AWS 초급 강의 첫번째 배포
 
 ### Springboot 2.6.3, JDK 11
 - devtools
